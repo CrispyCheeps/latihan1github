@@ -1,0 +1,8 @@
+Scenerio :
+
+1. Membuat file repository pegawai di master branch.
+2. Membuat new branch baru : manager, executives, pegawai.
+3. Membuat file / perubahan di masing2 branch
+4. Merging manager dengan dengan executives. (fast-forward)
+5. Merging pegawai dengan master. (fast-forward)
+6. Merging master dengan manager. (three-way)
